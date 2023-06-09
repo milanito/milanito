@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanito" alt="milanito" /></a> </p>
 
-- 🔭 I’m currently working at [Criteo]([https://www.folhomee.fr/](https://www.criteo.com/)
+- 🔭 I’m currently working at [Criteo](https://www.criteo.com/)
 
 - 💬 Ask me about **C#, javascript, ruby & golang**
 
