@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matthieu Rondeau</h1>
-<h3 align="center">A passionate CTO from France</h3>
+<h3 align="center">A passionate Software Engineer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanito&label=Profile%20views&color=0e75b6&style=flat" alt="milanito" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanito" alt="milanito" /></a> </p>
 
-- 🔭 I’m currently working at [Folhomee](https://www.folhomee.fr/)
+- 🔭 I’m currently working at [Criteo]([https://www.folhomee.fr/](https://www.criteo.com/))
 
-- 💬 Ask me about **javascript, ruby & golang**
+- 💬 Ask me about **C#, javascript, ruby & golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
